@@ -14,8 +14,7 @@ PoW
 - diff retarget each block for PoW
 - PoW payout will last for 180 days, then will be shut down.
 - Payout will be as follows (note: below are PoW block number not actually block number, actual block number include both PoW and PoS blocks):
-	- Block 2 - block 3360: 0 coins / block. This is to ensure a smooth ICO period, also to ensure a fair mining start. So the first 7 block days after ICO starts will have no payout. The wallet client and source code will be released to public about 1 day before the start of mining (around block 2880)
-	- Block 3361 - block 89700: 5 coins / block. During the 180 days, the payout of PoW mining will be flat at 5 coins / block. No halve or change of the payout during the period.
+	- Block 2 - block 89700: 5 coins / block. During the 180 days, the payout of PoW mining will be flat at 5 coins / block. No halve or change of the payout during the period.
 	- After block 89700, the PoW will be disabled, the coin will become a pure PoS coin.
 
 
